@@ -2,10 +2,18 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+# Fireplate for Next-Js
+
 First, run the development server:
 
 ```bash
-npm run dev
+pnpm install
+# or
+yarn install
+```
+
+```bash
+pnpm run dev
 # or
 yarn dev
 ```
